@@ -7,3 +7,11 @@
 	- Alt+←/Alt+→，聚焦/退出聚焦块
 	- Ctrl+↑/Ctrl+↓，折叠/展开
 	- Shift+Alt+↑/Shift+Alt+↓，上下移动块
+	- Ctrl+K，搜索
+- 页面别名
+	- 在页面中任意位置：
+	  ```
+	  ---
+	  alias: name1, name2
+	  ---
+	  ```

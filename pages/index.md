@@ -15,3 +15,7 @@
 - [[想法：SnakeChat]]
 - [[数学笑话1+1=2]]
 - [[《三国杀》入门指南：如何在5-10分钟内理解游戏]]
+- [[Excel 技巧]]
+- [PowerShell修改文件时间](Modify File Time in PowerShell)
+- [[正则表达式笔记]]
+- [[约书亚树效应]]
